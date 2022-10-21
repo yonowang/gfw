@@ -29,6 +29,10 @@
 |https://vscode-update.azurewebsites.net
 |https://www.hao123.com
 
+!自定义
+||ericsson.com
+||ericsson.se
+
 ! 中国CDN白名单 来源https://github.com/mawenjian/china-cdn-domain-whitelist/blob/master/china-cdn-domain-whitelist.txt
 ! 蓝汛
 ||gslbsvc.net.cn
@@ -481,8 +485,6 @@
 ||erji.net
 ||etao.com
 ||eudic.net
-||ericsson.com
-||ericsson.se
 
 ! F
 ||fang.com
