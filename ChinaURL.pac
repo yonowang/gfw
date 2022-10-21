@@ -482,6 +482,7 @@
 ||etao.com
 ||eudic.net
 ||ericsson.com
+||ericsson.se
 
 ! F
 ||fang.com
