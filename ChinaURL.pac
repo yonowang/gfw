@@ -20,8 +20,6 @@
 /127\.0\.0\.1/
 /172\.16\.\d+\.\d+/
 /192\.168\.\d+\.\d+/
-/100\.99\.\d+\.\d+/
-/150\.236\.\d+\.\d+/
 
 ! Subdomain
 |https://az764295.vo.msecnd.net
@@ -29,9 +27,11 @@
 |https://vscode-update.azurewebsites.net
 |https://www.hao123.com
 
-!自定义
+! 自定义
 ||ericsson.com
 ||ericsson.se
+/100\.99\.\d+\.\d+/
+/150\.236\.\d+\.\d+/
 
 ! 中国CDN白名单 来源https://github.com/mawenjian/china-cdn-domain-whitelist/blob/master/china-cdn-domain-whitelist.txt
 ! 蓝汛
