@@ -31,6 +31,9 @@
 ||ericsson.com
 ||ericsson.se
 ||microsoftonline.com
+||msauth.net
+||msauthimages.net
+||live.com
 /100\.99\.\d+\.\d+/
 /150\.236\.\d+\.\d+/
 
