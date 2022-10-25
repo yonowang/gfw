@@ -176,6 +176,8 @@
 ||bdydns.cn
 ||baiduyundns.com
 ||baiduyundns.cn
+||bcebos.com
+||bdstatic.com
 
 ! 百度云加速
 ||yunjiasu-cdn.net
