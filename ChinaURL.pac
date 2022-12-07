@@ -30,6 +30,7 @@
 ! 自定义
 ||ericsson.com
 ||ericsson.se
+||microsoft.com
 /100\.99\.\d+\.\d+/
 /150\.236\.\d+\.\d+/
 
