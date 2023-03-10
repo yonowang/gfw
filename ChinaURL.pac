@@ -33,6 +33,7 @@
 ||microsoft.com
 /100\.99\.\d+\.\d+/
 /150\.236\.\d+\.\d+/
+/146\.11\.\d+\.\d+/
 
 ! 中国CDN白名单 来源https://github.com/mawenjian/china-cdn-domain-whitelist/blob/master/china-cdn-domain-whitelist.txt
 ! 蓝汛
