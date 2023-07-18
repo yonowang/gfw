@@ -1311,7 +1311,6 @@
 ||vite.org
 ||vjudge.net
 ||vmall.com
-||vmware.com
 ||voidcn.com
 ||vostic.net
 ||vpgame.com
