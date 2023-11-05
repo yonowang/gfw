@@ -37,7 +37,7 @@
 /100\.87\.\d+\.\d+/
 /148\.135\.\d+\.\d+/
 
-!Starbucks
+! Starbucks
 ||wiwide.com
 ||starbucks.com.cn
 
