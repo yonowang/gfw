@@ -30,6 +30,7 @@
 ! 自定义
 ||ericsson.com
 ||ericsson.se
+||cloudflareaccess.com
 ||ericsson.net
 ||microsoft.com
 /100\.99\.\d+\.\d+/
